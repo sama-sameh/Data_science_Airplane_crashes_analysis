@@ -47,10 +47,12 @@ The dataset used in this project is **Airplane Crashes Since 1908**, which can b
 - **Matplotlib** and **Seaborn**: Data visualization.
 
 ## Repository Structure
+```
 Airplane-Crashes-Analysis
  ┣ Airplane_Crashes_Analysis.ipynb # Jupyter notebook with analysis
  ┣ requirements.txt # Required dependencies
  ┣ README.md        # Project documentation
+```
 
 ## How to Run the Code
 1. Clone the repository:
